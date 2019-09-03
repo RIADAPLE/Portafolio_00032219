@@ -1,0 +1,3 @@
+En el main declaramos tres variables enteras ordinarias (num, doble y triple).
+Luego enviamos a la funcion "Calculos" un numero entero (num) y 2 punteros (&Doble y &triple).
+En la función, si ponemos la variable sin asterisco nos da la dirección de la variable original, si lo ponemos con "&", nos da la dirección del puntero que almacena la variable y por último el asterísco nos da el propio valor de la variable
