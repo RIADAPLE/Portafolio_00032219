@@ -1,0 +1,20 @@
+Primera expresión:
+A-B/(C*D$E)
+A-B/(C*DE$)	Primero se hace lo del paréntesis y ya dentro, se hace el exponente.
+A-B/(CDE$*)	Segundo, dentro del paréntesis, se hace la multiplicación.
+A-BCDE$*/	Tercero, se hace la división entre toda la expresión CDE$*.
+ABCDE$*/-	Por último, se resta toda la expresión, por A.
+
+
+
+
+
+
+
+
+Segunda expresión:
+((A+B)*C-(D-E))$(F+G)
+((AB+)*C-(DE-))$(FG+)	Primero se hace lo que está más interno en los 3 paréntesis.
+(AB+C*-(DE-))$(FG+)	Luego se hacen las multiplicaciones adentro del paréntesis.
+(AB+C*DE--)$(FG+)	Luego se hacen las últimas operaciones adentro del paréntesis (la resta).
+AB+C*DE--FG+$		Por último, se hace la potencia que estaba afuera del paréntesis.
