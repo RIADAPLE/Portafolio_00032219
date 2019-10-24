@@ -1,0 +1,138 @@
+ÁRBOL 1
+
+Raíz:
+Nodo A
+
+Ramas:
+Nodo B
+Nodo C
+Nodo D
+Nodo E
+
+Hojas:
+Nodo G
+Nodo H
+Nodo I
+Nodo F
+
+Nivel 0:
+Nodo A
+
+Nivel 1:
+Nodo B
+Nodo C
+
+Nivel 2:
+Nodo D
+Nodo E
+Nodo F
+
+Nivel 3:
+Nodo G
+Nodo H
+Nodo I
+
+Profundidad:
+3
+
+Peso:
+9
+
+Orden del árbol:
+Orden 2
+
+Sub-árbol:
+Raíz:E
+Ramas:H,I
+
+
+¿Es lleno o estricto?
+No
+
+¿Es perfecto o completo?
+No
+
+Recorrido In-orden:
+D,G,B,A,H,E,I,C,F
+
+Recorrido Pre-orden:
+A,B,D,G,C,E,H,I,F
+
+Recorrido Post-orden:
+G,D,B,H,I,E,F,C,A
+
+
+
+
+
+
+
+ÁRBOL 2
+
+Raíz:
+Nodo A
+
+Ramas:
+Nodo B
+Nodo C
+Nodo D
+Nodo E
+Nodo F
+Nodo G
+Nodo H
+
+Hojas:
+Nodo I
+Nodo J
+Nodo K
+Nodo L
+
+Nivel 0:
+Nodo A
+
+Nivel 1:
+Nodo B
+
+Nivel 2:
+Nodo C
+Nodo D
+
+Nivel 3:
+Nodo E
+Nodo F
+Nodo G
+Nodo H
+
+Nivel 4:
+Nodo I
+Nodo J
+Nodo K
+Nodo L
+
+Profundidad:
+4
+
+Peso:
+12
+
+Orden del árbol:
+Orden 2
+
+Sub-árbol:
+Raíz:H
+Ramas:K,L
+
+¿Es lleno o estricto?
+No
+
+¿Es perfecto o completo?
+No
+
+Recorrido In-orden:
+E,I,C,F,J,B,G,D,K,H,A,L
+
+Recorrido Pre-orden:
+A,B,C,E,I,F,J,D,G,H,K,L
+
+Recorrido Post-orden:
+I,E,F,J,C,G,K,L,H,D,B,A
