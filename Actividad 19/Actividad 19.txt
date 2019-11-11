@@ -1,0 +1,66 @@
+Datos a agregar 43, 21, 77, 58, 63, 15, 37, 41, 72, 39, 95, 70
+
+-Se agrega el 43 a la derecha del 27
+10,27,43
+
+-Se agrega el 21 a la iquierda del 27
+10,21,27,43
+
+-Se agrega el 77 a la derecha del 68
+68,77,80
+
+-Se agrega el 58 a la izquierda del 68
+58,68,77,80
+
+-Se agrega el 63 a la izquierda del 68
+58,63,68,77,80
+
+-Se sube el 68 como padre, y se divide el nodo
+iquierda:
+58,63
+Derecha
+77,80
+
+-Se agrega el 15 a la derecha del 10
+10,15,21,27,43
+-Se sube el 21 como padre, y se divide el nodo
+iquierda:
+10,15
+Derecha
+27,43
+
+-Se agrega el 37 a la derecha del 27
+27,37,43
+
+-Se agrega el 41 a la derecha del 37
+27,37,41,43
+
+-Se agrega el 72 a la izquierda del 77
+72,77,80
+
+-Se agrega el 39 a la derecha del 37
+27,37,39,41,43
+
+-Se sube el 39 como padre, acompaña al 21, y se divide el nodo
+iquierda:
+10,15
+en medio
+27,37
+Derecha
+41,43
+
+-Se agrega el 95 a la derecha de 80
+72,77,80,95
+
+-Se agrega el 70 a la izquierda del 72
+70,72,77,80,95
+
+-Se sube el 77 como padre, acompaña al 68, y se divide el nodo
+iquierda:
+58,63
+en medio
+70,72
+Derecha
+80,95
+
+Al verificar queda como la presentación :)
